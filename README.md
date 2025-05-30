@@ -1,19 +1,19 @@
 ## Hi there I'm Hyeonseo👋
 
+## 😎 About Me
+- 🌱 I’m currently learning **Full Stack Web Development**
+- 🛠️ Techs I use: `HTML`, `CSS`, `JavaScript`, `Node.js`, `MySQL`
+
+## 💌 Contact
+- 📧 Email: letsgohs01@naver.com
+- 🌐 Blog: [hsgogo.log](https://velog.io/@hsgogo/posts)
+- 🐱 GitHub: [@hyeonseogo](https://github.com/hyeonseogo)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyeonseogo&show_icons=true&theme=tokyonight)
+
+---
 ![funny gif](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
-![Apple welcome](https://www.icegif.com/wp-content/uploads/2023/01/icegif-54.gif)
-
-<!--
-**hyeonseogo/hyeonseogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
