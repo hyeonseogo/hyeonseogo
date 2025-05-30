@@ -2,13 +2,7 @@
 
 ## 😎 About Me
 - 🌱 I’m currently learning **Full Stack Web Development**
-- 🛠️ Techs I use: `HTML`, `CSS`, `JavaScript`, `Node.js`, `MySQL`
-
-## 💌 Contact
-- 📧 Email: letsgohs01@naver.com
-- 🌐 Blog: [hsgogo.log](https://velog.io/@hsgogo/posts)
-- 🐱 GitHub: [@hyeonseogo](https://github.com/hyeonseogo)
-
+- 🛠️ Techs I'm using: `HTML`, `CSS`, `JavaScript`, `Node.js`, `MySQL`, `Java`
 ---
 
 ## 📊 GitHub Stats
