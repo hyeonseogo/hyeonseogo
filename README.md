@@ -16,4 +16,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyeonseogo&show_icons=true&theme=tokyonight)
 
 ---
-![funny gif](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
+> 📘 _"Be strong and courageous. Do not be afraid; do not be discouraged."_  
+> — Joshua 1:9
