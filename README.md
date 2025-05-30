@@ -1,6 +1,6 @@
 ## Hi there I'm Hyeonseo👋
 
-![funny gif](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?cid=ecf05e47n1vila315tdee7sc376qbc1vki4t25xoej69yyac&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![funny gif](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
 <!--
 **hyeonseogo/hyeonseogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
