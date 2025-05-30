@@ -1,8 +1,8 @@
-## Hi there I'm Hyeonseo👋
+## Hello, I'm Hyeonseo👋
 
-## 😎 About Me
+<!--## 😎 About Me
 - 🌱 I’m currently learning **Full Stack Web Development**
-- 🛠️ Techs I'm using: `HTML`, `CSS`, `JavaScript`, `Node.js`, `MySQL`, `Java`, `mongoDB`, `mongoose`
+- 🛠️ Techs I'm using: `HTML`, `CSS`, `JavaScript`, `Node.js`, `MySQL`, `Java`, `mongoDB`, `mongoose`-->
 ---
 
 ## 📊 GitHub Stats
