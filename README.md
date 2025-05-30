@@ -1,7 +1,7 @@
 ## Hi there I'm Hyeonseo👋
 
 ![funny gif](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
-markdown<br>![Hi blob](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+![Apple welcome](https://www.icegif.com/wp-content/uploads/2023/01/icegif-54.gif)
 
 <!--
 **hyeonseogo/hyeonseogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
